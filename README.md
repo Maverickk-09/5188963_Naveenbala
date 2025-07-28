@@ -1,1 +1,1 @@
-! [Git Certificate](Gitcertificate.png)
+! [Agile Certificate](Agilecertificate.png)
